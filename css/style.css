@@ -1,0 +1,18 @@
+/**
+*Css layout
+*
+**/
+
+
+/**
+* Body Layout
+**/
+.container {
+	width: 960px;
+	margin: 0 auto;
+}
+
+body {
+	margin: 0;
+}
+.background-color:royalblue
