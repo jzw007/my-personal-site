@@ -1,18 +1,14 @@
-/**
-*Css layout
-*
-**/
 
-
-/**
-* Body Layout
-**/
-.container {
-	width: 960px;
-	margin: 0 auto;
-}
 
 body {
-	margin: 0;
+	background-color: greenyellow;
+
 }
-.background-color:royalblue
+
+div.carousel-cell img{
+	margin:10px;
+
+}
+.column-label{
+	text-align: center;
+}

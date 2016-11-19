@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf 8">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
-		<meta name="viewport" content="width=device-width, initial scale=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 		<!--latest compiled and minified css-->
 		<!-- Bootstrap Latest compiled and minified CSS -->
@@ -21,6 +21,9 @@
 
 		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+		<link rel="stylesheet" href="css/flickity.css">
+		<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 
 		<link type="text/css" href="css/style.css" rel="stylesheet" />
 		<title>Boo</title>
@@ -42,17 +45,30 @@
 
 			<div class="row">
 				<div class="col-md-6">
-					<h1>
+					<h1 class="column-label">
 						Headshots
 					</h1>
+					<div class="main-carousel" data-flickity>
+
+						<div class="carousel-cell">
+							<img class="img-responsive" src="images/Screen%20Shot%202016-11-15%20at%207.13.41%20PM.png">
+							<a href="images/Screen%20Shot%202016-11-15%20at%207.13.41%20PM.png">Download</a>
+						</div>
+
+						<div class="carousel-cell">
+							<img class="img-responsive" src="images/Screen%20Shot%202016-11-15%20at%207.26.42%20PM.png">
+							<a href="images/Screen%20Shot%202016-11-15%20at%207.26.42%20PM.png">Download</a>
+						</div>
+
+					</div>
 				</div>
 				<div class="col-md-6">
-					<h1>
+					<h1 class="column-label">
 						Video Real
 					</h1>
-					<div class="media">
-						<iframe src="https://www.youtube.com/embed/PvkcqgpZJCw" frameborder="0" allowfullscreen></iframe>
-					</div>
+					<p class="embed-responsive embed-responsive-16by9">
+						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/PvkcqgpZJCw" frameborder="0" allowfullscreen></iframe>
+					</p>
 				</div>
 			</div>
 
