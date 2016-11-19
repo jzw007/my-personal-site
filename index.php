@@ -41,9 +41,18 @@
 
 
 			<div class="row">
-				<div class="col-xs-12">
-
-
+				<div class="col-md-6">
+					<h1>
+						Headshots
+					</h1>
+				</div>
+				<div class="col-md-6">
+					<h1>
+						Video Real
+					</h1>
+					<div class="media">
+						<iframe src="https://www.youtube.com/embed/PvkcqgpZJCw" frameborder="0" allowfullscreen></iframe>
+					</div>
 				</div>
 			</div>
 
