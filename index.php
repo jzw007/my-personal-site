@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf 8">
-		<meta http-equiv="x-ua-compatible"content="ie=edge">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
 		<meta name="viewport" content="width=device-width, initial scale=1">
 
 		<!--latest compiled and minified css-->
@@ -22,7 +22,7 @@
 		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
-		<link type="text/css" href="../css/style.css" rel="stylesheet" />
+		<link type="text/css" href="css/style.css" rel="stylesheet" />
 		<title>Boo</title>
 	</head>
 
