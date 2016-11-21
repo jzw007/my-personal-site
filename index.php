@@ -36,7 +36,9 @@
 			<div class="row">
 				<div class="col-xs-12">
 					<div class="jumbotron">
-						<h1>Jeremiah Z. Wood</h1>
+							/*size | family*/
+							font style: 2em"Open Dancing Script",
+						<h1><strong>Jeremiah Z. Wood</strong></h1>
 						<p>Albuquerque, N.M.</p>
 					</div>
 				</div>
@@ -46,18 +48,28 @@
 			<div class="row">
 				<div class="col-md-6">
 					<h1 class="column-label">
-						Headshots
+						<strong>Headshots</strong>
 					</h1>
 					<div class="main-carousel" data-flickity>
 
 						<div class="carousel-cell">
-							<img class="img-responsive" src="images/Screen%20Shot%202016-11-15%20at%207.13.41%20PM.png">
-							<a href="images/Screen%20Shot%202016-11-15%20at%207.13.41%20PM.png">Download</a>
+							<img class="img-responsive" src="images/Headh shot 004-07-12-2013.png">
+							<a href="images/Headh shot 004-07-12-2013.png">Download</a>
 						</div>
 
 						<div class="carousel-cell">
-							<img class="img-responsive" src="images/Screen%20Shot%202016-11-15%20at%207.26.42%20PM.png">
-							<a href="images/Screen%20Shot%202016-11-15%20at%207.26.42%20PM.png">Download</a>
+							<img class="img-responsive" src="images/head shot 001 on 11-15-16.png">
+							<a href="images/head shot 001 on 11-15-16.png">Download</a>
+						</div>
+
+						<div class="carousel-cell">
+							<img class="img-responsive" src="images/head shot 002, 11-15-16.png">
+							<a href="images/head shot 002, 11-15-16.png">Download</a>
+						</div>
+
+						<div class="carousel-cell">
+							<img class="img-responsive" src="images/Headshot 00311-15-16.png">
+							<a href="images/Headshot 00311-15-16.png">Download</a>
 						</div>
 
 					</div>
