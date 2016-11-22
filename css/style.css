@@ -1,12 +1,15 @@
 html{
 	background:lightgoldenrodyellow;
+	background-image: url("/background/image/back-ground01.jpg");
 }
 body{
 	width:80%;
 	margin:0 auto;
 	background:white;
 }
-
+.jumbotron{
+	font-family: 'Dancing Script', cursive;
+}
 
 
 div.carousel-cell img{

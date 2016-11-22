@@ -4,6 +4,9 @@
 		<meta charset="utf 8">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
+<!--Fonts for the page-->
+		<link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
+
 
 		<!--latest compiled and minified css-->
 		<!-- Bootstrap Latest compiled and minified CSS -->
@@ -44,9 +47,9 @@
 				<div class="col-xs-12">
 					<nav>
 						<ul>
-							<li><a href="Resume.htm"></a></li>
-							<li><a href="Bio.htm"></a></li>
-							<li><a href="Contact"></a> </li>
+							<li><a href="Resume.htm"></a>Resume</li>
+							<li><a href="Bio.htm"></a>Bio</li>
+							<li><a href="Contact"></a>Contact</li>
 						</ul>
 					</nav>
 				</div>
@@ -60,11 +63,11 @@
 					<h1 class="column-label">
 						<strong>Headshots</strong>
 					</h1>
-					<div class="main-carousel" data-flickity>
 
+					<div class="main-carousel" data-flickity>
 						<div class="carousel-cell">
-							<img class="img-responsive" src="media/Headh shot 004-07-12-2013.png">
-							<a href="media/Headh shot 004-07-12-2013.png">Download</a>
+<!--							<img class="img-responsive" src="media/Headh shot 004-07-12-2013.png">-->
+<!--							<a href="media/Headh shot 004-07-12-2013.png">Download</a>-->
 						</div>
 
 						<div class="carousel-cell">
