@@ -53,23 +53,23 @@
 					<div class="main-carousel" data-flickity>
 
 						<div class="carousel-cell">
-							<img class="img-responsive" src="images/Headh shot 004-07-12-2013.png">
-							<a href="images/Headh shot 004-07-12-2013.png">Download</a>
+							<img class="img-responsive" src="media/Headh shot 004-07-12-2013.png">
+							<a href="media/Headh shot 004-07-12-2013.png">Download</a>
 						</div>
 
 						<div class="carousel-cell">
-							<img class="img-responsive" src="images/head shot 001 on 11-15-16.png">
-							<a href="images/head shot 001 on 11-15-16.png">Download</a>
+							<img class="img-responsive" src="media/head shot 001 on 11-15-16.png">
+							<a href="media/head shot 001 on 11-15-16.png">Download</a>
 						</div>
 
 						<div class="carousel-cell">
-							<img class="img-responsive" src="images/head shot 002, 11-15-16.png">
-							<a href="images/head shot 002, 11-15-16.png">Download</a>
+							<img class="img-responsive" src="media/head shot 002, 11-15-16.png">
+							<a href="media/head shot 002, 11-15-16.png">Download</a>
 						</div>
 
 						<div class="carousel-cell">
-							<img class="img-responsive" src="images/Headshot 00311-15-16.png">
-							<a href="images/Headshot 00311-15-16.png">Download</a>
+							<img class="img-responsive" src="media/Headshot 00311-15-16.png">
+							<a href="media/Headshot 00311-15-16.png">Download</a>
 						</div>
 
 					</div>

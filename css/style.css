@@ -1,9 +1,13 @@
 
 
 body {
-	background-color: greenyellow;
-
+	background-repeat: no-repeat;
+	background-position: top right;
+	background-image: url(back-ground01.jpg);
+	background-attachment: fixed;
 }
+
+
 
 div.carousel-cell img{
 	margin:10px;
