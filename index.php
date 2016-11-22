@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html">
 	<head>
 		<meta charset="utf 8">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -31,18 +31,19 @@
 
 	<!--content starts here-->
 	<body>
-		<div class="container">
+		<div>
 
+		</div>
+		<div class="container">
 			<div class="row">
 				<div class="col-xs-12">
 					<div class="jumbotron">
-							/*size | family*/
-							font style: 2em"Open Dancing Script",
 						<h1><strong>Jeremiah Z. Wood</strong></h1>
 						<p>Albuquerque, N.M.</p>
 					</div>
 				</div>
 			</div>
+
 
 
 			<div class="row">
@@ -76,16 +77,13 @@
 				</div>
 				<div class="col-md-6">
 					<h1 class="column-label">
-						Video Real
+						<strong>Video Real</strong>
 					</h1>
 					<p class="embed-responsive embed-responsive-16by9">
 						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/PvkcqgpZJCw" frameborder="0" allowfullscreen></iframe>
 					</p>
 				</div>
 			</div>
-
-
-
 		</div>
 	</body>
 </html>
