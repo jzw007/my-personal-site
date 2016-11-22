@@ -31,9 +31,6 @@
 
 	<!--content starts here-->
 	<body>
-		<div>
-
-		</div>
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12">
@@ -43,6 +40,18 @@
 					</div>
 				</div>
 			</div>
+			<div class="container">
+				<div class="col-xs-12">
+					<nav>
+						<ul>
+							<li><a href="Resume.htm"></a></li>
+							<li><a href="Bio.htm"></a></li>
+							<li><a href="Contact"></a> </li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+		</div>
 
 
 
