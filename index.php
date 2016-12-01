@@ -22,6 +22,12 @@
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
 
+		<!-- jQuery Form, Additional Methods, Validate -->
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/jquery.validate.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/additional-methods.min.js"></script>
+
+
 		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
@@ -42,6 +48,10 @@
 		<link rel="stylesheet" href="NiceSimpleContactForm/style.css">
 		<link rel="stylesheet" href="NiceSimpleContactForm/index.html">
 		<script src="https://css-tricks.com/nice-and-simple-contact-form"></script>
+
+		<!--insert reCAPTCHA Google-->
+		<script src='https://www.google.com/recaptcha/api.js'></script>
+
 	</head>
 
 	<!--content of main page starts here-->
@@ -109,6 +119,10 @@
 					<div class="row">
 						<div class="col-xs-12">
 							<div class="NiceSimpleContactForm">
+
+
+<!--insert the reCAPTCHA widget and info here-->
+								<div class="g-recaptcha" data-sitekey="6Lfxkg0UAAAAAAJKQ4syBJZwGjcrq4FeuAf7sGkc"></div>
 
 							</div>
 				</p>
