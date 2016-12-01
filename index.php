@@ -37,6 +37,9 @@
 			</div>
 		</nav>
 
+		<!-- Your JavaScript Form Validator -->
+		<script src="js/form-validate.js"></script>
+
 <!--	insert for the flickity carousel-->
 		<link rel="stylesheet" href="css/flickity.css">
 		<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
