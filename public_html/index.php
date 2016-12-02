@@ -10,18 +10,6 @@ require_once("php/partials/head-utils.php");
 ?>
 	<!--content of main page starts here-->
 	<body>
-		<div class="container">
-			<div class="row">
-				<div class="col-xs-12">
-					<div class="jumbotron">
-						<h1><strong>Jeremiah Z. Wood</strong></h1>
-						<p>Albuquerque, N.M.</p>
-					</div>
-				</div>
-			</div>
-		</div>
-
-
 		<div class="row">
 			<div class="col-md-6">
 				<h1 class="column-label">
