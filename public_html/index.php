@@ -9,6 +9,7 @@ $PAGE_TITLE = "JZW";
 require_once("php/partials/head-utils.php");
 ?>
 	<!--content of main page starts here-->
+<?php require_once($PREFIX . "php/partials/header.php"); ?>
 	<body>
 		<div class="row">
 			<div class="col-md-6">

@@ -4,7 +4,7 @@
  * @see https://raw.githubusercontent.com/kingscreations/farm-to-you/master/php/lib/_header.php FarmToYou Header
  **/
 
-require_once(dirname((__DIR__), 2) . "/root-path.php");
+require_once(dirname(dirname(__DIR__)) . "/root-path.php");
 $CURRENT_DEPTH = substr_count($CURRENT_DIR, "/");
 $ROOT_DEPTH = substr_count($ROOT_PATH, "/");
 $DEPTH_DIFFERENCE = $CURRENT_DEPTH - $ROOT_DEPTH;
