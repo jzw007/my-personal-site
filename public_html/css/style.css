@@ -1,11 +1,27 @@
 html{
 	background:lightgoldenrodyellow;
 	background-image: url("/public_html/image/back-ground01.jpg");
-}
-body{
-	margin:0 auto;
-	background:white;
 
+}
+body {
+	margin: 0 auto;
+	padding: 2%;
+	font-family: "Arial Hebrew Scholar", SansSerif;
+	background: white;
+}
+
+.navbar{
+	background-color: darkgrey;
+	border-color:black;
+	text-align:right;
+	padding: 10px 0 10px 0;
+	-webkit-text-stroke-color: white;
+
+}
+.nav > li {
+	display:inline-block;
+
+}
 
 div.carousel-cell img{
 	margin:10px;
@@ -14,3 +30,8 @@ div.carousel-cell img{
 .column-label{
 	text-align: center;
 }
+
+
+
+
+
