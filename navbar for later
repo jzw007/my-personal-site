@@ -46,3 +46,18 @@
                <!--		</div>-->
                <!--	</nav>-->
                <!--</header>-->
+
+               <div class="col-md-6">
+               				<h1 class="column-label">
+               					<strong>Video Real</strong>
+               				</h1>
+               				<div class="embed-responsive embed-responsive-16by9">
+               					<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/PvkcqgpZJCw" frameborder="0"
+               							  allowfullscreen></iframe>
+               				</div>
+               				<!--empty area for form error/success output-->
+               				<div class="row">
+               					<div class="col-xs-12">
+               						<div id="output-area"></div>
+               					</div>
+               				</div>

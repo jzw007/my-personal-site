@@ -55,6 +55,8 @@ $PREFIX = str_repeat("../", $DEPTH_DIFFERENCE);
 		<!-- Your JavaScript Form Validator -->
 		<script src="js/jquery-validate.js"></script>
 
+<!--	Custom JS	-->
+		<script src="js/custom-js.js"></script>
 		<!--	insert for the flickity carousel-->
 		<link rel="stylesheet" href="css/flickity.css">
 		<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>

@@ -4,19 +4,26 @@ padding : 0;
 }
 body {
 	background: rgba(0,0,0,.075);
-	background-image: url("/public_html/image/sunset-background1.jpg");
 	margin: 0 auto;
+
 
 
 }
 
-.navbar{
+.center-text {
+	text-align: center;
+}
+
+.navbar-default{
 	background-color:transparent;
 	border-radius:0;
-	text-align:right;
 	padding: 10px 0 10px 0;
-	font-family: "Arial Hebrew Scholar", SansSerif;
-	text-color: white;
+}
+.navbar-inverse{
+	background-color: white;
+	box-shadow: 0 0 10px rgba(0,0,0,0.6);
+	border-radius:0;
+	padding: 10px 0 10px 0;
 }
 .title{
 	float:left;
@@ -31,6 +38,16 @@ body {
 
 .title-image{
 	float:left;
+}
+.navbar-inverse .navbar-nav>li>a{
+	color:black;
+	font-size: x-large;
+	margin-top: 5px;
+}
+.navbar-default .navbar-nav>li>a{
+	color:black;
+	font-size: x-large;
+	margin-top: 5px;
 }
 h1{
 	margin:0;
@@ -48,8 +65,15 @@ div.carousel-cell img{
 .column-label{
 	text-align: center;
 }
-
-.con
+.home-picture{
+	display:flex;
+	background: url("../image/sunset-background1.jpg") no-repeat center;
+	background-attachment:fixed;
+	-webkit-background-size:cover;
+	background-size:cover;
+	height: 100vh;
+	align-items: center;
+}
 
 
 
