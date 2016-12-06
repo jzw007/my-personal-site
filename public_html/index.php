@@ -14,7 +14,7 @@ require_once("php/partials/head-utils.php");
 		<div class="container-fluid">
 			<div class="row">
 				<section class="home-picture">
-					<div class="center-text"><h1>Jeremiah Z. Wood</h1></div>
+					<div class="center-text"><h1></h1></div>
 				</section>
 			</div>
 		</div>

@@ -7,7 +7,6 @@ body {
 	margin: 0 auto;
 
 
-
 }
 
 .center-text {
@@ -71,7 +70,7 @@ div.carousel-cell img{
 	background-attachment:fixed;
 	-webkit-background-size:cover;
 	background-size:cover;
-	height: 100vh;
+	height: 500vh;
 	align-items: center;
 }
 
