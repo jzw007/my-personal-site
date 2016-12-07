@@ -19,9 +19,9 @@ require_once("php/partials/head-utils.php");
 					<h3 class="sub-heading">Being an Actor at heart with an over active imagination allows for an easy transition into the most drastic roles. Always having a passion that out shines the rest by being true to himself first so he can truthfully portray imaginary circumstances.
 
 					</h3>
-						<img class="headshot" src="media/beardHs.png" alt="Jeremiah">
-						<img class="headshot" src="media/blackwhite.png" alt="Jeremiah">
-						<img class="headshot" src="media/woodHs.png" alt="Jeremiah">
+						<img class="headshot-main" src="media/beardHs.png" alt="Jeremiah">
+						<img class="headshot-main" src="media/blackwhite.png" alt="Jeremiah">
+						<img class="headshot-main" src="media/woodHs.png" alt="Jeremiah">
 
 					</div>
 				</section>

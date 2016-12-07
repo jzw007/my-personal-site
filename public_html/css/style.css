@@ -82,7 +82,7 @@ h1{
 }
 
 div.carousel-cell img{
-	margin:10px;
+	margin:5px;
 
 }
 .column-label{
@@ -120,8 +120,13 @@ nav.navbar {
 }
 
 .headshot{
-	margin: 3rem 2rem 0 2rem;
+	margin: 0 0 0 0;
+	width:300px;
+	height:300px;
 
+}
+.headshot-main{
+	margin: 3rem 2rem 0 2rem;
 }
 
 .footer {
