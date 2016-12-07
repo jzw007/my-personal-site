@@ -19,7 +19,7 @@ require_once(dirname(__DIR__) . "/php/partials/head-utils.php");
 				<div class="row">
 					<div class="home-picture">
 						<div class="center-image">
-							<img class="headshot" src=".image/acting images/Robin Williams.png" alt="Jeremiah">
+							<img class="headshot" src="../image/acting images/Robin Williams.png" alt="Jeremiah">
 						</div>
 					</div>
 

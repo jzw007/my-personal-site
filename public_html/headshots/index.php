@@ -33,19 +33,19 @@ require_once(dirname(__DIR__) . "/php/partials/head-utils.php");
 			<!-- Wrapper for slides -->
 			<div class="carousel-inner" role="listbox">
 				<div class="headshot">
-					<img src="media/blueshirt16.jpg" alt="Jeremiah">
+					<img src="../media/blueshirt16.jpg" alt="Jeremiah">
 				</div>
 
 				<div class="headshot	">
-					<img src="media/walking13.jpg" alt="Jeremiah">
+					<img src="../media/walking13.jpg" alt="Jeremiah">
 				</div>
 
 				<div class="headshot">
-					<img src="media/gshirt16.png" alt="Jeremiah">
+					<img src="../media/gshirt16.png" alt="Jeremiah">
 				</div>
 
 				<div class="headshot">
-					<img src="media/greyBeard13.jpg" alt="Jeremiah">
+					<img src="../media/greyBeard13.jpg" alt="Jeremiah">
 				</div>
 			</div>
 

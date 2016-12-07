@@ -19,7 +19,8 @@ $PREFIX = str_repeat("../", $DEPTH_DIFFERENCE);
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 		<!--Fonts for the page-->
 		<link href="https://fonts.googleapis.com/css?family=Slackey" rel="stylesheet">
-
+<!--Font for main page-->
+		<link href="https://fonts.googleapis.com/css?family=Loved+by+the+King|Slackey" rel="stylesheet">
 
 		<!--latest compiled and minified css-->
 		<!-- Bootstrap Latest compiled and minified CSS -->
