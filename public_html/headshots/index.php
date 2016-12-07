@@ -1,17 +1,18 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="en">
-	<head>
-		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-		<title>JZW Headshots</title>
-	</head>
+<?php
+/*grab current directory*/
+$CURRENT_DIR = __DIR__;
 
-		<?php
-		//load head-utils.php
-		require_once("php/partials/head-utils.php");
-		?>
+// set page title
+$PAGE_TITLE = "JZW";
+
+//load head-utils.php
+require_once(dirname(__DIR__) . "/php/partials/head-utils.php");
+?>
+<!--content of main page starts here-->
+<body class="main-layout sfooter">
 		<!--content of main page starts here-->
 		<?php require_once($PREFIX . "php/partials/header.php"); ?>
-	<body class="main-layout">
+	<div class="main-layout">
 		<div class="container-fluid">
 			<div class="row">
 				<section class="home-picture">
@@ -32,19 +33,19 @@
 			<!-- Wrapper for slides -->
 			<div class="carousel-inner" role="listbox">
 				<div class="item active">
-					<img src="Headshot 00311-15-16.png" alt="Chania">
+					<img src="public_html/media/blueshirt16.jpg" alt="Chania">
 				</div>
 
 				<div class="item">
-					<img src="Headh shot 004-07-12-2013.png" alt="Chania">
+					<img src="public_html/media/walking13.jpg" alt="Chania">
 				</div>
 
 				<div class="item">
-					<img src="head shot 001 on 11-15-16.png" alt="Flower">
+					<img src="gshirt16.png" alt="Flower">
 				</div>
 
 				<div class="item">
-					<img src="head shot 002, 11-15-16.png" alt="Flower">
+					<img src="media/greyBeard13.jpg" alt="Flower">
 				</div>
 			</div>
 
@@ -58,6 +59,8 @@
 				<span class="sr-only">Next</span>
 			</a>
 		</div>
+		</div>
 
 	</body>
+<?php require_once($PREFIX . "php/partials/footer.php"); ?>
 </html>

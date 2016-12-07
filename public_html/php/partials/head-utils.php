@@ -53,15 +53,15 @@ $PREFIX = str_repeat("../", $DEPTH_DIFFERENCE);
 
 
 		<!-- Your JavaScript Form Validator -->
-		<script src="js/jquery-validate.js"></script>
+		<script src="<?php echo $PREFIX; ?>js/jquery-validate.js"></script>
 
 <!--	Custom JS	-->
-		<script src="js/custom-js.js"></script>
+		<script src="<?php echo $PREFIX; ?>js/custom-js.js"></script>
 		<!--	insert for the flickity carousel-->
-		<link rel="stylesheet" href="css/flickity.css">
+		<link rel="stylesheet" href="<?php echo $PREFIX; ?>css/flickity.css">
 		<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 
-		<link type="text/css" href="css/style.css" rel="stylesheet"/>
+		<link type="text/css" href="<?php echo $PREFIX; ?>css/style.css" rel="stylesheet"/>
 		<title>Jeremiah Z. Wood</title>
 
 		<!--insert reCAPTCHA Google-->

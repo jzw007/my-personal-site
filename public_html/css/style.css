@@ -1,11 +1,27 @@
 html{
+	display:flex;
 padding : 0;
 
 }
-body {
-	background: rgba(0,0,0,.075);
-	margin: 0 auto;
 
+.center-image{
+	display:block;
+	margin: auto;
+}
+
+.sfooter {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.sfooter-content {
+	flex: 1 0 auto;
+}
+body {
+	background: black;
+	margin: 0 auto;
+	width:100%;
 
 }
 
@@ -17,13 +33,19 @@ body {
 	background-color:transparent;
 	border-radius:0;
 	padding: 10px 0 10px 0;
+	color:white;
+	border:none;
 }
-.navbar-inverse{
+
+.navbar-inverse {
 	background-color: white;
 	box-shadow: 0 0 10px rgba(0,0,0,0.6);
 	border-radius:0;
 	padding: 10px 0 10px 0;
+	color:rgba(47, 55, 136, 1.0);
+	border:none;
 }
+
 .title{
 	float:left;
 
@@ -32,7 +54,6 @@ body {
 	padding-top:13px;
 	margin-left: 15px;
 	font-family: 'Slackey', sans-serif;
-	color:rgba(47, 55, 136, 1.0);
 }
 
 .title-image{
@@ -44,7 +65,7 @@ body {
 	margin-top: 5px;
 }
 .navbar-default .navbar-nav>li>a{
-	color:black;
+	color:white;
 	font-size: x-large;
 	margin-top: 5px;
 }
@@ -66,15 +87,40 @@ div.carousel-cell img{
 }
 .home-picture{
 	display:flex;
-	background: url("../image/sunset-background1.jpg") no-repeat center;
+	background: black;
 	background-attachment:fixed;
 	-webkit-background-size:cover;
 	background-size:cover;
-	height: 500vh;
+	height: 90vh;
 	align-items: center;
 }
 
 
+nav.navbar {
+	-webkit-transition: all 500ms ease;
+	-moz-transition: all 500ms ease;
+	-ms-transition: all 500ms ease;
+	-o-transition: all 500ms ease;
+	transition: all 500ms ease;
+}
 
+.main-heading{
+	margin-top:10rem;
+	color:white;
 
+}
 
+.sub-heading{
+	color:white;
+}
+
+.headshot{
+	margin: 3rem 2rem 0 2rem;
+
+}
+
+.footer {
+	padding: 20px;
+	background: white;
+	box-shadow: 0 0 10px rgba(0,0,0,0.6);
+}

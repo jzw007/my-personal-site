@@ -21,17 +21,17 @@ $(document).ready(function(){
 	/* check <body> tag for the main-layout class, and add navbar-INVERSE class */
 	if($('body').hasClass('main-layout')) {
 
-		$('.navbar').addClass('navbar-inverse');
+		$('.navbar').addClass('navbar-default');
 
 		/* on home page ONLY, swap out navabar classes if user scrolls down 50 px */
 		$(window).on('scroll', function() {
 
-			if($(window).scrollTop() > 50) {
+			if($(window).scrollTop() > 70) {
 				$('.navbar').addClass('navbar-inverse').removeClass('navbar-default');
 			}
 
 			/* when user scrolls back up, reset navbar*/
-			if($(window).scrollTop() <= 50) {
+			if($(window).scrollTop() <= 70) {
 				$('.navbar').addClass('navbar-default').removeClass('navbar-inverse');
 			}
 
