@@ -17,9 +17,7 @@ require_once(dirname(__DIR__) . "/php/partials/head-utils.php");
 			<div class="row">
 				<section class="home-picture">
 					<div class="center-text container">
-						<h1 class="main-heading">
-							Resume
-						</h1>
+						<h1 class="main-heading"></h1>
 						<img class="headshot" src="../image/acting images/Johnny Dep.png" alt="Jeremiah">
 					</div>
 
@@ -28,8 +26,11 @@ require_once(dirname(__DIR__) . "/php/partials/head-utils.php");
 		</div>
 		<div class="container">
 			<div class="row">
-				<div class="center-image">
-					<img class="center-image resume" src="../image/acting-resume.png" alt="Jeremiah">
+				<div class="center-text container">
+					<h1 class="main-heading">Resume</h1>
+					<div class="center-image">
+						<img class="center-image resume" src="../image/acting-resume.png" alt="Jeremiah">
+					</div>
 				</div>
 			</div>
 		</div>

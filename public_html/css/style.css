@@ -94,7 +94,9 @@ div.carousel-cell img{
 	height: 90vh;
 	align-items: center;
 }
-
+.center-text{
+	margin:0 0 0 0;
+}
 
 nav.navbar {
 	-webkit-transition: all 500ms ease;

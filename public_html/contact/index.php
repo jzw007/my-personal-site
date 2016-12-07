@@ -14,6 +14,18 @@ require_once(dirname(__DIR__) . "/php/partials/head-utils.php");
 <body class="sfooter main-layout">
 	<div class="sfooter-content">
 		<?php require_once($PREFIX . "php/partials/header.php"); ?>
+		<div class="main-layout">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="home-picture">
+						<div class="center-image">
+							<img class="headshot" src=".image/acting images/Robin Williams.png" alt="Jeremiah">
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
 		<!--Begin Contact Form-->
 		<form id="contact-form" action="php/mailer.php" method="post" novalidate>
 			<div class="form-group">
@@ -64,6 +76,5 @@ require_once(dirname(__DIR__) . "/php/partials/head-utils.php");
 	</div>
 </body>
 <?php require_once($PREFIX . "php/partials/footer.php"); ?>
-
 
 </html>
