@@ -53,16 +53,17 @@ require_once(dirname(__DIR__) . "/php/partials/head-utils.php");
 			<div class="carousel-inner" role="listbox">
 
 				<div class="item active">
-					<img src="../media/babyface13.jpg" alt="Jeremiah" width="25" height="35">
+					<a download="../media/babyface13.jpg" href="../media/babyface13.jpg" title="Jermeiah"width="25" height="35">
+						<img alt="Jeremiah" src="../media/babyface13.jpg">
+					</a>
 					<div class="carousel-caption">
-						<a href="../media/babyface13.jpg" download>
-							<img src="../media/babyface13.jpg" />
-						</a>
 					</div>
 				</div>
 
 				<div class="item">
-					<img src="../media/blueshirt16.jpg" alt="Jeremiah" width="25" height="35">
+					<a download="../media/blueshirt16.jpg" href="../media/blueshirt16.jpg" title="Jermeiah" width="25" height="35">
+						<img src="../media/blueshirt16.jpg" alt="Jeremiah" width="25" height="35">
+					</a>
 					<div class="carousel-caption">
 					</div>
 				</div>
