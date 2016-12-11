@@ -69,13 +69,17 @@ require_once(dirname(__DIR__) . "/php/partials/head-utils.php");
 				</div>
 
 				<div class="item">
+					<a src="../media/walking13.jpg" href="../media/walking13.jpg" title="Jeremiah" width="25" height="35">
 					<img src="../media/walking13.jpg" alt="Jeremiah" width="25" height="35">
+					</a>
 					<div class="carousel-caption">
 					</div>
 				</div>
 
 				<div class="item">
-					<img src="../media/greyBeard13.jpg" alt="Jeremiah" width="25" height="35">
+					<a download="../media/greyBeard13.jpg" href="../media/greyBeard13.jpg" title="Jermeiah" alt="Jeremiah" width="25" height="35">
+						<img src="../media/greyBeard13.jpg" alt="Jeremiah" width="25" height="35">
+						</a>
 					<div class="carousel-caption">
 					</div>
 				</div>

@@ -27,7 +27,7 @@ require_once(dirname(__DIR__) . "/php/partials/head-utils.php");
 			</div>
 		</div>
 		<!--Begin Contact Form-->
-		<form id="contact-form" action="php/mailer.php" method="post" novalidate>
+		<form id="contact-form" action="../php/mailer.php" method="post" novalidate>
 			<div class="form-group">
 				<label for="name">Name <span class="text-danger">*</span></label>
 				<div class="input-group">
