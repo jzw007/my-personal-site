@@ -110,7 +110,7 @@ nav.navbar {
 }
 
 .main-heading{
-	margin-top:10rem;
+	margin:0 0 0 0;
 	color:white;
 
 }
@@ -121,7 +121,7 @@ nav.navbar {
 
 .headshot{
 	margin: 0 0 0 0;
-	width:300px;
+	width:500px;
 	height:300px;
 
 }

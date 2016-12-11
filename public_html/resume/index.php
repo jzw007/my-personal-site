@@ -28,14 +28,16 @@ require_once(dirname(__DIR__) . "/php/partials/head-utils.php");
 			<div class="row">
 				<div class="center-text container">
 					<h1 class="main-heading">Resume</h1>
+						<p> Click to Down Load Resume</p>
 					<div class="center-image">
-						<img class="center-image resume" src="../image/acting-resume.png" alt="Jeremiah">
+						<a download="center-image resume" href="../image/acting-resume.png" title="Jeremiah Resume"
+							alt="Jeremiah">
+							<img src="../image/acting-resume.png" alt="Jeremiah"
+						</a>
 					</div>
 				</div>
 			</div>
 		</div>
-
-
 	</div>
 </body>
 <?php require_once($PREFIX . "php/partials/footer.php"); ?>

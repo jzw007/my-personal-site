@@ -53,7 +53,7 @@ require_once(dirname(__DIR__) . "/php/partials/head-utils.php");
 			<div class="carousel-inner" role="listbox">
 
 				<div class="item active">
-					<a download="../media/babyface13.jpg" href="../media/babyface13.jpg" title="Jermeiah"width="25" height="35">
+					<a download="../media/babyface13.jpg" href="../media/babyface13.jpg" title="Jeremiah"width="25" height="35">
 						<img alt="Jeremiah" src="../media/babyface13.jpg">
 					</a>
 					<div class="carousel-caption">
@@ -61,7 +61,7 @@ require_once(dirname(__DIR__) . "/php/partials/head-utils.php");
 				</div>
 
 				<div class="item">
-					<a download="../media/blueshirt16.jpg" href="../media/blueshirt16.jpg" title="Jermeiah" width="25" height="35">
+					<a download="../media/blueshirt16.jpg" href="../media/blueshirt16.jpg" title="Jeremiah" width="25" height="35">
 						<img src="../media/blueshirt16.jpg" alt="Jeremiah" width="25" height="35">
 					</a>
 					<div class="carousel-caption">
@@ -77,7 +77,7 @@ require_once(dirname(__DIR__) . "/php/partials/head-utils.php");
 				</div>
 
 				<div class="item">
-					<a download="../media/greyBeard13.jpg" href="../media/greyBeard13.jpg" title="Jermeiah" alt="Jeremiah" width="25" height="35">
+					<a download="../media/greyBeard13.jpg" href="../media/greyBeard13.jpg" title="Jeremiah" alt="Jeremiah" width="25" height="35">
 						<img src="../media/greyBeard13.jpg" alt="Jeremiah" width="25" height="35">
 						</a>
 					<div class="carousel-caption">
