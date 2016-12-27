@@ -16,25 +16,20 @@ require_once(dirname(__DIR__) . "/php/partials/head-utils.php");
 		<div class="container-fluid">
 			<div class="row">
 				<section class="home-picture">
-					<div class="center-text container">
-						<h1 class="main-heading"></h1>
-						<img class="headshot" src="../image/acting images/Johnny Dep.png" alt="Jeremiah">
-					</div>
-
+					<h1 class="main-heading"></h1>
+					<img class="headshot center-block" src="../image/acting images/Johnny Dep.png" alt="Jeremiah">
 				</section>
 			</div>
 		</div>
 		<div class="container">
-			<div class="row">
-				<div class="center-text container">
-					<h1 class="main-heading">Resume</h1>
-						<p> Click to Down Load Resume</p>
-					<div class="center-image">
-						<a download="center-image resume" href="../image/acting-resume.png" title="Jeremiah Resume"
-							alt="Jeremiah">
-							<img src="../image/acting-resume.png" alt="Jeremiah"
-						</a>
-					</div>
+			<div class="row text-center">
+				<h1 class="main-heading">Resume</h1>
+				<p> Click to Down Load Resume</p>
+				<div class="center-image">
+					<a download="center-image resume" href="../image/acting-resume.png" title="Jeremiah Resume"
+						alt="Jeremiah">
+						<img src="../image/acting-resume.png" alt="Jeremiah"
+					</a>
 				</div>
 			</div>
 		</div>

@@ -16,7 +16,7 @@ require_once("php/partials/head-utils.php");
 			<div class="row">
 				<section class="home-picture">
 					<div class="container center-text"><h1 class="main-heading"></h1>
-					<h3 class="sub-heading">Being an Actor at heart with an over active imagination allows for an easy transition into the most drastic roles. Always having a passion that out shines the rest by being true to himself first so he can truthfully portray imaginary circumstances.
+					<h3 class="sub-heading fixed">Being an Actor at heart with an over active imagination allows for an easy transition into the most drastic roles. Always having a passion that out shines the rest by being true to himself first so he can truthfully portray imaginary circumstances.
 
 					</h3>
 						<a download="headshot-main" href="media/beardHs.png" title="Jeremiah" alt="Jeremiah" src="media/beardHs.png">

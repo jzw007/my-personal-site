@@ -18,15 +18,12 @@ padding : 0;
 .sfooter-content {
 	flex: 1 0 auto;
 }
+
 body {
 	background: black;
 	margin: 0 auto;
 	width:100%;
 
-}
-
-.center-text {
-	text-align: center;
 }
 
 .navbar-default{
@@ -44,6 +41,11 @@ body {
 	padding: 10px 0 10px 0;
 	color:rgba(47, 55, 136, 1.0);
 	border:none;
+
+}
+
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
+	color:crimson;
 }
 
 .title{
@@ -78,7 +80,6 @@ h1{
 
 .nav > li {
 	display:inline-block;
-
 }
 
 div.carousel-cell img{
@@ -98,7 +99,7 @@ div.carousel-cell img{
 	align-items: center;
 }
 .center-text{
-	margin:0 0 0 0;
+
 }
 
 nav.navbar {
@@ -120,13 +121,15 @@ nav.navbar {
 }
 
 .headshot{
-	margin: 0 0 0 0;
 	width:500px;
-	height:300px;
-
+	height:370px;
 }
+
 .headshot-main{
 	margin: 3rem 2rem 0 2rem;
+}
+
+.imagepg1{
 }
 
 .footer {

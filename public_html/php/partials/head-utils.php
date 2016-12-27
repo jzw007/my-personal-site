@@ -52,6 +52,8 @@ $PREFIX = str_repeat("../", $DEPTH_DIFFERENCE);
 				  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
 				  crossorigin="anonymous"></script>
 
+		<!-- Fontawesome link-->
+		<script src="https://use.fontawesome.com/06252b5f20.js"></script>
 
 		<!-- Your JavaScript Form Validator -->
 		<script src="<?php echo $PREFIX; ?>js/jquery-validate.js"></script>
@@ -67,5 +69,7 @@ $PREFIX = str_repeat("../", $DEPTH_DIFFERENCE);
 
 		<!--insert reCAPTCHA Google-->
 		<script src='https://www.google.com/recaptcha/api.js'></script>
+
+
 
 	</head>
